@@ -14,3 +14,13 @@ Shares roles and skill based learning roadmaps with ressource links.
 Descriptions, class diagrams, implementation and ressources for major design, patterns! 
 
 <sub><sup>The 3 above were found on @herhelloworld instagram account. Big thank you to her</sup></sub>
+
+# Design 
+
+### [RANDOMA11Y](https://www.randoma11y.com/)
+![randoma11y](images/RANDOMA11Y.png)
+
+# Video
+
+### [PLAYPHRASE.ME](https://playphrase.me/)
+Travel and explore the world of cinema. Largest collection of video quotes from movies on the web.
