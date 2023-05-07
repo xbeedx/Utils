@@ -10,7 +10,7 @@ Collection of algorithms implemented in different languages.
 ### [Roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh)
 Shares roles and skill based learning roadmaps with ressource links. 
 
-### [Design Patterns implemented in Java]()
+### [Design Patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
 Descriptions, class diagrams, implementation and ressources for major design, patterns! 
 
 <sub><sup>The 3 above were found on @herhelloworld instagram account. Big thank you to her</sup></sub>
