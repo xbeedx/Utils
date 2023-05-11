@@ -26,13 +26,33 @@ Descriptions, class diagrams, implementation and ressources for major design, pa
 A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. 
 
 
+# Organisation
+
+## Notion 
+
+[EASLO](https://www.easlo.co/) :
+Notion templates
+
 # Design 
+
+## Practices
+
+### [LAWSOFUX](https://lawsofux.com/)
+collection of practices to consider 
+
+## Colours
 
 ### [RANDOMA11Y](https://www.randoma11y.com/)
 ![randoma11y](images/RANDOMA11Y.png)
 
-### [LAWSOFUX](https://lawsofux.com/)
-collection of practices to consider 
+## Fonts
+
+[MEGLONA](https://www.dafont.com/meglona.font)
+[SELENITE](https://mborowczyk.fr/Type-catalogue)
+[FREGA](https://olohgram.gumroad.com/l/VCwyk?layout=profile)
+[YAKIN](https://www.dafont.com/yakin.font)
+[VANDALIZM](https://studioaaa.com/product/vandalizm-font-beta/)
+
 
 # Video
 
@@ -74,4 +94,3 @@ Go to line :
 
 Go to File : 
 ```Windows : ctrl + P ```|``` macOS : control + P```
-
