@@ -109,8 +109,10 @@ A list of programming tutorials in which aspiring software developers learn how 
 
 ### Interactive 3D
 [Spline](https://spline.design/) to design and create the model
-+ [Sketchfab](https://sketchfab.com/) for the interactions and the annotation feature,
-+ [Webflow](https://webflow.com/) to design and develop the site.
+
+\+ [Sketchfab](https://sketchfab.com/) for the interactions and the annotation feature,
+
+\+ [Webflow](https://webflow.com/) to design and develop the site.
 
 Go to Spline, make a model of your product, export as a GLTF file.
 Export > Copy Embed code 
