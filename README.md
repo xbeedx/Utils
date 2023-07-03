@@ -1,28 +1,40 @@
 # Table of content
+
 - [Learning](#learning)
+  - [Courses](#courses)
+    - [Computer Science](#computer-science)
   - [The Algorithms](#the-algorithms)
   - [Roadmap.sh](#roadmapsh)
   - [Design Patterns implemented in Java](#design-patterns-implemented-in-java)
   - [Project Based Learning](#project-based-learning)
+  - [Free Games to learn programming](#free-games-to-learn-programming)
 - [Organisation](#organisation)
-    - [Notion](#notion)
+  - [Notion](#notion)
 - [Design](#design)
-    - [Practices](#practices)
-        - [LAWSOFUX](#lawsofux)
-    - [Colours](#colours)
-        - [RANDOMA11Y](#randoma11y)
-    - [Fonts](#fonts)
-    - [Backgrounds](#backgrounds)
+  - [Practices](#practices)
+    - [LAWSOFUX](#lawsofux)
+  - [Colours](#colours)
+    - [RANDOMA11Y](#randoma11y)
+  - [Fonts](#fonts)
+  - [Backgrounds](#backgrounds)
 - [Video](#video)
-    - [PLAYPHRASE.ME](#playphraseme)
+  - [PLAYPHRASE.ME](#playphraseme)
 - [Documentation](#documentation)
-    - [SCRIBE](#scribe)
+  - [SCRIBE](#scribe)
 - [VsCode](#vscode)
-    - [ShortCuts](#shortcuts)
+  - [Themes](#themes)
+  - [ShortCuts](#shortcuts)
 
 
 
 # Learning 
+
+## Courses
+
+### Computer Science
+[CS50][https://pll.harvard.edu/course/cs50-introduction-computer-science]
+
+An introduction to the intellectual enterprises of computer science and the art of programming.
 
 ### The Algorithms
 [Git Repo](https://github.com/TheAlgorithms) 
@@ -49,13 +61,102 @@ Descriptions, class diagrams, implementation and ressources for major design, pa
 
 A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. 
 
+## Free Games to learn programming 
+[CodeCombat](CodeCombat.com) : python, javascript, html
+
+[FlexBoxFroggy](FlexBoxFroggy.com) : CSS (Flexbox)
+
+[CodeWars](https://www.codewars.com/) : python, php, ruby, html
+
+[CodinGames](https://codingames.com/)
+
+[Tynker](tynker.com) : pyhton, JS, Java
+
+[CSSBattle](cssbattle.dev) : CSS
+
+[javascriptquiz](https://javascriptquiz.com/) : JS
+
+[OhMyHit](https://ohmygit.org/) : Git
+
+## Free certifications 
+[Python](https://placementdriveinsta.in/top-5-free-certifications/)
+[SQL](https://cognitiveclass.ai/courses/learn-sql-relational-databases)
+[Machine Learning](https://cognitiveclass.ai/courses/machine-learning-with-python)
+[Data Science](https://cognitiveclass.ai/learn/data-science-with-python)
+[Data Analysis](https://cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+v2)
+
+## Courses by Languages
+
+### HTML
+[W3Schools](https://w3schools.com/html)
+
+### CSS 
+[Web.Dev](https://web.dev/learn/css)
+
+### JS
+[JavaScript.info](https://javascript.info/)
+
+### Git
+[learngitbranching](https://learngitbranching.js.org/)
+
+### React
+[Beta](https://beta.reactjs.org/)
+
+## 3D
+
+### Interactive 3D
+[Spline](https://spline.design/) to design and create the model
++ [Sketchfab](https://sketchfab.com/) for the interactions and the annotation feature,
++ [Webflow](https://webflow.com/) to design and develop the site.
+
+Go to Spline, make a model of your product, export as a GLTF file.
+Export > Copy Embed code 
+
+Or, if you want to add annotations:
+Convert GLTF to OBJ. You can use [aspose](https://aspose.app/)
+Upload the OBJ to Sketchfab, add annotations from different angles. 
+Embed Code > Show Annotations > Copy code 
+
+Then 
+
+Go to your Webflow site. Insert HTML Embed block > Paste the code. add any details 
+You're done ;)
+
+## Video Games
+
+### Videos 
+[Why Does Celeste Feel So Good to Play?](https://www.youtube.com/watch?v=yorTG9at90g)
+[The Game Prototype That Had to Be Banned by Its Own Studio](youtube.com/watch?v=aOYbR-Q_4Hs)
+[The Making of Outer Wilds - Documentary](https://www.youtube.com/watch?v=LbY0mBXKKT0)
 
 # Organisation
 
 ## Notion 
 
+### templates
 [EASLO](https://www.easlo.co/) :
 Notion templates
+
+### widgets 
+[Apption](https://apption.co/)
+[Indify](https://indify.co/)
+[Pomodo Timer](https://studywithme.io/aesthetic-pomodoro-timer)
+[Notion block builder](https://getkairo.com/notion-blocks)
+[Charts](https://notion2charts.com/)
+
+### Icons 
+[NotionIcons](https://notionicons.simple.ink/)
+[Icons8](https://icons8.com/)
+[NotionIcons.so](https://notionicons.so/)
+
+### Covers
+[NotionCovers](https://www.notioncovers.com/)
+[Pexels](https://pexels.com/)
+
+### Other
+[Super](https://super.so/)
+Create a website in less than a minute that’s easy to manage and looks great, with instant page loads, SEO optimization, and no-code. All your content stays in Notion so you can focus on creating while Super handles the rest.
+
 
 # Design 
 
@@ -67,7 +168,6 @@ collection of practices to consider
 ## Colours
 
 ### [RANDOMA11Y](https://www.randoma11y.com/)
-![randoma11y](images/RANDOMA11Y.png)
 
 ## Fonts
 
@@ -82,6 +182,18 @@ collection of practices to consider
 [Haikei](haikei.app)
 Customizable background generator
 
+## Trends
+Ukiyo-e
+Futuristic Dystopia 
+Collage
+
+## Web Design 
+[User flows](https://pageflows.com/?ref=sl)
+[Page design](https://pagecollective.com/?ref=sl)
+
+## UX
+[UXRescue](https://uxrescue.org/)
+! All the organizations have agreed to let volunteers use the project details on their portfolio. 
 
 
 # Video
@@ -97,7 +209,16 @@ Auto documentation generator
 
 # VsCode
 
-### ShortCuts
+## Themes
+
+[GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+[Vibrancy Continued](https://marketplace.visualstudio.com/items?itemName=illixion.vscode-vibrancy-continued)
+[One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+[Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
+[Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
+
+
+## ShortCuts
 
 Word Wrap :
 Need a quick view of the entire line without scrolling? Just enable Word-Wrap
