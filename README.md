@@ -1,8 +1,8 @@
 # Table of Contents
 
-
 - [Learning](#learning)
   - [Computer Science](#computer-science)
+  - [SECURITY](#security)
   - [UI/UX](#uiux)
   - [3D](#3d)
   - [Animation](#animation)
@@ -23,6 +23,9 @@
 
 ## Computer Science
 ---
+
+@ 
+[EDX](https://www.edx.org/search?q=Computer+Science) : free courses to full degrees 
 
 [Harvard CS50](https://cs50.harvard.edu/) <br>
 An introduction to the intellectual enterprises of computer science and the art of programming.
@@ -116,8 +119,10 @@ Shares roles and skill based learning roadmaps with ressource links.
 
 ### Courses by Language
 
-
-[Exercism](https://exercism.org/)
+@
+[Exercism](https://exercism.org/) - 
+[NesoAcademy](https://www.nesoacademy.org/) - 
+[Programiz](https://programiz.com/)
 
 HTML
 [W3Schools](https://w3schools.com/html)
@@ -142,6 +147,18 @@ SQL
 
 Node
 [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+
+---
+### AI
+
+[Google AI](https://ai.google/) : Advancing AI for everyone
+
+---
+## SECURITY
+---
+
+### TRAINING
+[HACKSPLAINING](https://www.hacksplaining.com/) : SECURITY TRAINING FOR DEVELOPERS
 
 ---
 ## UI/UX
