@@ -75,3 +75,12 @@
 - [TryHackMe](https://tryhackme.com/)
 - [CyberSecurity Roadmap](https://roadmap.sh/cyber-security)
 - [PentesterLab](https://pentesterlab.com/)
+
+## 📃 Documentation
+
+- [SCRIBE](https://chrome.google.com/webstore/detail/scribe-%E2%80%94-documentation-so/okfkdaglfjjjfefdcppliegebpoegaii)
+
+## 🧩 VS Code
+
+- [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
+- [VS Code Tips](https://vscode.dev/tips)
