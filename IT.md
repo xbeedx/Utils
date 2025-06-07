@@ -52,21 +52,68 @@
 - [Data Science](https://cognitiveclass.ai/learn/data-science-with-python)
 - [Data Analysis](https://cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+v2)
 
-## Courses by Language
+## Courses by Language & Frameworks
+
+### R Programming
+
+- [R for Data Science](http://r4ds.had.co.nz/)
+- [Advanced R](https://adv-r.hadley.nz/)
+- [Text Mining with R](https://www.tidytextmining.com/)
+- [Tidy Modeling with R](https://www.tmwr.org/)
+- [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
+- [Impatient R](http://www.burns-stat.com/documents/tutorials/impatient-r/)
+- [The R Inferno](http://www.burns-stat.com/documents/books/the-r-inferno/)
+- [Tidyverse Style Guide](http://style.tidyverse.org/)
+- [Tidyverse Design Principles](https://principles.tidyverse.org/)
+- [Creating ggplot2 Extensions](https://rud.is/books/creating-ggplot2-extensions/)
+- [Advanced R Solutions](https://advanced-r-solutions.rbind.io/)
+- [R Packages](http://r-pkgs.had.co.nz/)
+- [21 Recipes for Mining Twitter Data](https://rud.is/books/21-recipes/)
+- [Drill Sergeant: Training Your R Markdown Reports](https://rud.is/books/drill-sergeant-rstats/)
+- [R Data Wrangling](https://cengel.github.io/R-data-wrangling/index.html)
+- [Multivariate Analysis with R](https://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/index.html)
+- [R Strings (r4strings)](http://www.gastonsanchez.com/r4strings/)
+- [R Markdown](https://bookdown.org/yihui/rmarkdown/)
+- [RStudio Resources (material.curso-r.com)](https://material.curso-r.com/)
+
+### Python Programming
+
+- [Python for Signal Processing](https://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
+- [Python Data Science Handbook – Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+- [Mining the Social Web](https://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)
+- [Practical Python Programming – David Beazley](https://dabeaz-course.github.io/practical-python/)
+- [Kevin Sheppard’s Python Notes](https://www.kevinsheppard.com/teaching/python/notes/)
+
+### JavaScript & Frontend
+
+- [JavaScript.info](https://javascript.info/)
+- [JSChallenger](https://jschallenger.com/)
+- [React Beta Docs](https://beta.reactjs.org/)
+- [Scrimba (React)](https://scrimba.com/)
+
+### HTML & CSS
+
+- [W3Schools (HTML)](https://w3schools.com/html)
+- [Web.Dev (CSS)](https://web.dev/learn/css)
+
+### SQL & Databases
+
+- [SQLZoo](https://sqlzoo.net/)
+- [SQLBolt](https://sqlbolt.com/)
+
+### Git & Version Control
+
+- [Learn Git Branching](https://learngitbranching.js.org/)
+
+### Node.js
+
+- [Node Best Practices (GitHub)](https://github.com/goldbergyoni/nodebestpractices)
+
+### Multi-Language Platforms
 
 - [Exercism](https://exercism.org/)
 - [NesoAcademy](https://www.nesoacademy.org/)
 - [Programiz](https://programiz.com/)
-- [W3Schools (HTML)](https://w3schools.com/html)
-- [Web.Dev (CSS)](https://web.dev/learn/css)
-- [JavaScript.info](https://javascript.info/)
-- [JSChallenger](https://jschallenger.com/)
-- [Learn Git Branching](https://learngitbranching.js.org/)
-- [React Beta Docs](https://beta.reactjs.org/)
-- [Scrimba (React)](https://scrimba.com/)
-- [SQLZoo](https://sqlzoo.net/)
-- [SQLBolt](https://sqlbolt.com/)
-- [Node Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 
 ## 🔐 Cybersecurity
 
@@ -84,50 +131,11 @@
 
 - [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 - [VS Code Tips](https://vscode.dev/tips)
-- 
-
-# 📚 R Programming
-
-### General & Applied
-- [R for Data Science](http://r4ds.had.co.nz/)
-- [Advanced R](https://adv-r.hadley.nz/)
-- [Text Mining with R](https://www.tidytextmining.com/)
-- [Tidy Modeling with R](https://www.tmwr.org/)
-- [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
-- [Impatient R](http://www.burns-stat.com/documents/tutorials/impatient-r/)
-- [The R Inferno](http://www.burns-stat.com/documents/books/the-r-inferno/)
-
-### Tidyverse Ecosystem
-- [Tidyverse Style Guide](http://style.tidyverse.org/)
-- [Tidyverse Design Principles](https://principles.tidyverse.org/)
-- [Creating ggplot2 Extensions](https://rud.is/books/creating-ggplot2-extensions/)
-- [Advanced R Solutions](https://advanced-r-solutions.rbind.io/)
-- [R Packages](http://r-pkgs.had.co.nz/)
-
-### Specialized R Topics
-- [21 Recipes for Mining Twitter Data](https://rud.is/books/21-recipes/)
-- [Drill Sergeant: Training Your R Markdown Reports](https://rud.is/books/drill-sergeant-rstats/)
-- [R Data Wrangling](https://cengel.github.io/R-data-wrangling/index.html)
-- [Multivariate Analysis with R](https://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/index.html)
-- [R Strings (r4strings)](http://www.gastonsanchez.com/r4strings/)
-- [R Markdown](https://bookdown.org/yihui/rmarkdown/)
-- [RStudio Resources (material.curso-r.com)](https://material.curso-r.com/)
-
----
-
-## 🐍 Python Programming
-
-- [Python for Signal Processing](https://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
-- [Python Data Science Handbook – Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-- [Mining the Social Web](https://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)
-- [Practical Python Programming – David Beazley](https://dabeaz-course.github.io/practical-python/)
-- [Kevin Sheppard’s Python Notes](https://www.kevinsheppard.com/teaching/python/notes/)
-
----
 
 ## 🤖 Machine Learning & AI
 
 ### General Machine Learning
+
 - [CS229: Stanford Machine Learning](http://cs229.stanford.edu/syllabus-autumn2018.html)
   - [Video Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Machine Learning Crash Course (Google)](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
@@ -135,9 +143,6 @@
 - [Machine Learning Yearning – Andrew Ng (feat.engineering)](http://www.feat.engineering/)
 - [ML Factor (Model Benchmarking)](http://www.mlfactor.com/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-
-
----
 
 ## Meta-Resources & Book Collections
 
