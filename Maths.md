@@ -45,3 +45,19 @@
 - [NYU Avellaneda Materials](https://www.math.nyu.edu/faculty/avellane/)
 - [Sillas Gonzaga CDR Material](http://sillasgonzaga.com/material/cdr/)
 - [IME Unicamp (Carlos Naber)](https://www.ime.unicamp.br/~cnaber/Ensino.htm)
+
+---
+
+## Meta-Resources & Book Collections
+
+- [Columbia: Bayesian Data Analysis (Gelman)](http://www.stat.columbia.edu/~gelman/book/)  
+  Advanced Bayesian statistics with applications in econometrics and finance.
+
+- [NYU Avellaneda Materials](https://www.math.nyu.edu/faculty/avellane/)  
+  Mathematics with applications in finance.
+
+- [Sillas Gonzaga CDR Material](http://sillasgonzaga.com/material/cdr/)  
+  Finance-related econometrics and data analysis resources.
+
+- [IME Unicamp (Carlos Naber)](https://www.ime.unicamp.br/~cnaber/Ensino.htm)  
+  Teaching materials on econometrics and finance.
