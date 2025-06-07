@@ -6,10 +6,11 @@
 - [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/index.html)
 - [5min statistics](https://stephens999.github.io/fiveMinuteStats/index.html)
 
-## Bayesian Methods
+## Bayesian Statistics & Probabilistic Modeling
 - [Probabilistic Programming & Bayesian Methods for Hackers](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 - [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/)
 - [Bayes Rules!](https://www.bayesrulesbook.com/)
+- [Columbia: Bayesian Data Analysis (Gelman)](http://www.stat.columbia.edu/~gelman/book/)
 
 ## Causal Inference
 - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
@@ -33,31 +34,21 @@
   - [EE263 (Stanford)](http://ee263.stanford.edu/)
   - [Lecture Playlist](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
 
- ---
+---
 
- 
-## 📘 Meta-Resources & Book Collections
+# 📚 Collections, Lecture Series & Additional Resources
 
+## General Math & Statistics Collections
 - [Bookdown Catalog](https://bookdown.org/)
 - [QuantEcon Lectures (Python)](https://lectures.quantecon.org/py/index.html)
 - [Therin's Spark Book](https://therinspark.com/)
-- [Columbia: Bayesian Data Analysis (Gelman)](http://www.stat.columbia.edu/~gelman/book/)
-- [NYU Avellaneda Materials](https://www.math.nyu.edu/faculty/avellane/)
-- [Sillas Gonzaga CDR Material](http://sillasgonzaga.com/material/cdr/)
-- [IME Unicamp (Carlos Naber)](https://www.ime.unicamp.br/~cnaber/Ensino.htm)
 
----
-
-## Meta-Resources & Book Collections
-
-- [Columbia: Bayesian Data Analysis (Gelman)](http://www.stat.columbia.edu/~gelman/book/)  
-  Advanced Bayesian statistics with applications in econometrics and finance.
-
+## Finance-Related Math & Econometrics Resources
 - [NYU Avellaneda Materials](https://www.math.nyu.edu/faculty/avellane/)  
   Mathematics with applications in finance.
 
 - [Sillas Gonzaga CDR Material](http://sillasgonzaga.com/material/cdr/)  
-  Finance-related econometrics and data analysis resources.
+  Finance-related econometrics and data analysis.
 
 - [IME Unicamp (Carlos Naber)](https://www.ime.unicamp.br/~cnaber/Ensino.htm)  
   Teaching materials on econometrics and finance.
